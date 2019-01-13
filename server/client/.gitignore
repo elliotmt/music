@@ -2,18 +2,8 @@
 
 # dependencies
 /node_modules
-node_modules
 /.pnp
 .pnp.js
-/dev.js
-dev.js
-/.env
-/.env.development
-/.dynamodb
-/.serverless
-/conf
-/jspm_packages
-/.idea/
 
 # testing
 /coverage
@@ -27,8 +17,6 @@ dev.js
 .env.development.local
 .env.test.local
 .env.production.local
-aws.env.dev.json
-aws.env.prod.json
 
 npm-debug.log*
 yarn-debug.log*
